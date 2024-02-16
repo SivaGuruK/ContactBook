@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  color: rgb(59, 106, 112) ;
+  font-size: 100px;
+}
+h4 {
+  text-align: center;
+  color: rgb(59, 106, 112) ;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-style: italic;
+}
+.container {
+ display: flex;gap: 100px;
+ padding-top: 2%;
+ padding-left: 19%;
+ padding-right: 19%;
+  align-items: flex-start;
+  gap:30%;
+}
+.table{
+    margin-top: 40px;
+    background-color: rgb(116, 86, 86);
+}
+.btnn{
+   margin-top: 30px;
+   color:  rgb(1, 19, 21) ;
+}
+.btnn:hover{
+    color: rgb(0, 37, 246);
+}
+.f4,.f5,.f6{
+    margin: 20px solid grey;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+.table th{
+    color:  rgb(63, 72, 88);
+    border: 2px;
+    font-size: 15px;
+    font-style: italic;
+}
